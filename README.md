@@ -3,8 +3,8 @@
 Engenheiro de Software Full-Stack de Natal/RN
 
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrogrca&theme=react&show_icons=true&hide_border=true&count_private=true">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogrca&theme=react&show_icons=true&hide_border=true&layout=compact">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrogrca&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogrca&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact">
 </div>
 
 <div style="display: inline_block"><br>
