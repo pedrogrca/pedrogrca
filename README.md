@@ -2,10 +2,10 @@
 <div align=center>
 É um prazer ter você por aqui!
   <p>
-Engenheiro de Software de Natal/RN
+👨‍💻Engenheiro de Software de Natal/RN
   </p>
     <p>
-    Graduando em Análise e Desenvolvimento de Sistemas pelo IFRN
+    🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo IFRN
   </p>
 </div>
 
@@ -29,10 +29,13 @@ Engenheiro de Software de Natal/RN
   
   ##
 
-  <h1>Entre em contato</h1>
+  <h1>Entre em contato! 📲</h1>
  
 <div align=center> 
 
-  <a href="https://www.linkedin.com/in/pedrogrca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pedrogrca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" target="_blank"></a> 
+  <a href="mailto:pedrograaca@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
   
 </div>
