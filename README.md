@@ -7,9 +7,9 @@ Engenheiro de Software de Natal/RN
 </div>
 
 
-<div align = center>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrogrca&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogrca&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact">
+<div align="center">
+  <a href="https://github.com/pedrogrca"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrogrca&show_icons=true&theme=midnight-purple" /></a>
+  <a href="https://github.com/pedrogrca"><img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrogrca&layout=compact&theme=midnight-purple" /></a>
 </div>
 
 <div align=center style="display: inline_block"><br>
