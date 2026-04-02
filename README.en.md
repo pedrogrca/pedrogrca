@@ -1,4 +1,5 @@
 # Hello, world! 👋
+🔗 Esse documento também está disponível em [Português](./README.md).
 
 I'm a **Software Engineer** passionate about turning ideas into reality through code and creativity. Currently, I'm a student of **Systems Analysis and Development at IFRN**. 
 
@@ -41,7 +42,7 @@ Want to chat about games, design, or tech? Feel free to reach out:
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrograaca@gmail.com)
 
 
-🔗 Esse documento também está disponível em [Português](./README.md).
+
 
 ---
 
