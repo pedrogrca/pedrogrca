@@ -1,4 +1,5 @@
 # Olá, mundo! 👋
+🔗 This document is also available in [English](./README.en.md).
 
 Sou um **Engenheiro de Software** apaixonado por transformar ideias em realidade através de código e criatividade. Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas no IFRN**. 
 
@@ -41,7 +42,7 @@ Quer trocar uma ideia sobre jogos, design ou tech? Fique à vontade para me cham
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrograaca@gmail.com)
 
 
-🔗 This document is also available in [English](./README.en.md).
+
 
 ---
 
