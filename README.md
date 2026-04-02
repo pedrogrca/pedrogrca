@@ -45,7 +45,7 @@ Quer trocar uma ideia sobre jogos, design ou tech? Fique à vontade para me cham
 ## 🐍 Minhas Contribuições
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pedrogrca&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=pedrogrca&theme=tokyonight&hide_border=true&locale=pt" />
 </div>
 
 <picture>
