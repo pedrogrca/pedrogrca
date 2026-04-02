@@ -8,7 +8,7 @@ Gosto de transitar entre a lógica da programação e a parte visual, sempre bus
 
 - 🎓 Cursando Tecnologia em Análise e Desenvolvimento (TADS) no IFRN.
 - 🖋 Tenho um grande interesse pelo universo de **design** e desenvolvimento **back-end**.
-- 🤝 Estou super aberto a convites para colaborar em diversos projetos design de interfaces ou qualquer ideia criativa open source!
+- 🤝 Estou super aberto a convites para colaborar em diversos projetos de design de interfaces ou qualquer ideia criativa open source!
 - 📽 Apaixonado pelas diversas artes audiovisuais!
 ---
 
