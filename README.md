@@ -44,6 +44,8 @@ Quer trocar uma ideia sobre jogos, design ou tech? Fique à vontade para me cham
 
 ## 🐍 Minhas Contribuições
 
-<div align="center">
-  <img src="https://github.com/pedrogrca/pedrogrca/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrogrca/pedrogrca/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrogrca/pedrogrca/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/pedrogrca/pedrogrca/output/snake.svg">
+</picture>
