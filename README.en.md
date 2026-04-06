@@ -9,7 +9,7 @@ I enjoy navigating between programming logic and the visual aspects, always stri
 
 - 🎓 Studying Technology in Systems Analysis and Development (TADS) at IFRN.
 - 🖋 I have a great interest in the universe of **design**, **back-end** development and **game** development.
-- 🤝 I'm very open to collaborating on various interface design projects, games or any creative open-source ideas!
+- 🤝 I'm very open to collaborating on various design projects, games or any creative open-source ideas!
 - 📽 Passionate about all kinds of audiovisual arts!
 ---
 
