@@ -1,7 +1,7 @@
 # Olá, mundo! 👋
 🔗 This document is also available in [English](./README.en.md).
 
-Sou um **Engenheiro de Software** apaixonado por transformar ideias em realidade através de código e criatividade. Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas no IFRN**. 
+Sou um **Engenheiro de Software** apaixonado por transformar ideias em realidade através de código e criatividade. Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas no IFRN**. 
 
 Gosto de transitar entre a lógica da programação e a parte visual, sempre buscando criar experiências incríveis para os usuários.
 
@@ -19,19 +19,19 @@ Aqui estão as tecnologias e ferramentas com as quais trabalho e estudo diariame
 
 **Linguagens & Frameworks:**
 <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" alt="C#" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="40" alt="Ruby" />
 
 **Ferramentas & Design:**
 <br>
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%230088CC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" alt="Figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="40" alt="Visual Studio" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
 
 ---
 
@@ -39,22 +39,19 @@ Aqui estão as tecnologias e ferramentas com as quais trabalho e estudo diariame
 
 Quer trocar uma ideia sobre jogos, design ou tech? Fique à vontade para me chamar:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogrca)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrograaca@gmail.com)
-
-
-
+<a href="https://www.linkedin.com/in/pedrogrca"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /></a>
+<a href="mailto:pedrograaca@gmail.com"><img src="https://img.icons8.com/color/50/gmail-new.png" width="40" alt="E-mail"/></a>
 
 ---
 
 ## 🐍 Minhas Contribuições
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pedrogrca&theme=tokyonight&hide_border=true&locale=pt" />
+  <img src="https://streak-stats.demolab.com?user=pedrogrca&theme=tokyonight&hide_border=true&locale=pt" />
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrogrca/pedrogrca/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrogrca/pedrogrca/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/pedrogrca/pedrogrca/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrogrca/pedrogrca/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrogrca/pedrogrca/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/pedrogrca/pedrogrca/output/snake.svg">
 </picture>
