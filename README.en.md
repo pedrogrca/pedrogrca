@@ -1,7 +1,7 @@
 # Hello, world! 👋
 🔗 Esse documento também está disponível em [Português](./README.md).
 
-I'm a **Software Engineer** passionate about turning ideas into reality through code and creativity. Currently, I'm a student of **Systems Analysis and Development at IFRN**. 
+I'm a **Full-Stack Developer** passionate about turning ideas into reality through code and creativity. Currently, I'm a student of **Systems Analysis and Development at IFRN**. 
 
 I enjoy navigating between programming logic and the visual aspects, always striving to create incredible experiences for users.
 
