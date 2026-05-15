@@ -1,7 +1,7 @@
 # Olá, mundo! 👋
 🔗 This document is also available in [English](./README.en.md).
 
-Sou um **Engenheiro de Software** apaixonado por transformar ideias em realidade através de código e criatividade. Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas no IFRN**. 
+Sou um **Desenvolvedor Full-Stack** apaixonado por transformar ideias em realidade através de código e criatividade. Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas no IFRN**. 
 
 Gosto de transitar entre a lógica da programação e a parte visual, sempre buscando criar experiências incríveis para os usuários.
 
